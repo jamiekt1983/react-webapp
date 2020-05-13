@@ -6,9 +6,9 @@ Restful JSON API is provided at http://nyx.vima.ekt.gr:3000
 
 ### Test the app
 
-Clone this repository to your local machine
-Install dependencies 'npm install'
-Start the application 'npm start'
+<li>Clone this repository to your local machine</li>
+<li>Install dependencies 'npm install'</li>
+<li>Start the application 'npm start'</li>
 
 ### Overview
 
