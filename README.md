@@ -15,14 +15,9 @@ Restful JSON API is provided at http://nyx.vima.ekt.gr:3000
 
 
 ### Future Changes
-The horizontal scrollbar moves when a user clicks a page number (document.getElementById("book-listing-paginate").scrollLeft += this.state.page;)
-
-Additional filters (filter by year/country)
-
-Add additional scss files/mixins
-
-Lazyload items
-
-Scroll to top function
-
-Deploy app into Github Pages ("deploy": "gh-pages -d build")
+<li>The horizontal scrollbar moves when a user clicks a page number (document.getElementById("book-listing-paginate").scrollLeft += this.state.page;)</li>
+<li>Additional filters (filter by year/country)</li>
+<li>Add additional scss files/mixins</li>
+<li>Lazyload items</li>
+<li>Scroll to top function</li>
+<li>Deploy app into Github Pages ("deploy": "gh-pages -d build")</li>
