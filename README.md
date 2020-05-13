@@ -4,6 +4,12 @@ A webapp build using react that queries this paginated endpoint and prints out t
 
 Restful JSON API is provided at http://nyx.vima.ekt.gr:3000
 
+### Test the app
+
+Clone this repository to your local machine
+Install dependencies 'npm install'
+Start the application 'npm start'
+
 ### Overview
 
 
@@ -18,3 +24,5 @@ Add additional scss files/mixins
 Lazyload items
 
 Scroll to top function
+
+Deploy app into Github Pages ("deploy": "gh-pages -d build")
